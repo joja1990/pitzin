@@ -1,8 +1,4 @@
- 
-Quisiera agradecer tu compra y agradecer la confianza en adquirir este humilde software, 
-también espero que te sea de utilidad, bendiciones y un abrazo muy fuerte desde México.
-Atte.- Jesús Herrera | CEO JHCodes
-
+﻿
 
 Para poder usar y utilizar SAUv3 necesitas cubrir los siguientes requisitos:
 
