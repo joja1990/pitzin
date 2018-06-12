@@ -1,6 +1,4 @@
-﻿
-
-Para poder usar y utilizar SAUv3 necesitas cubrir los siguientes requisitos:
+﻿Para poder usar y utilizar SAUv3 necesitas cubrir los siguientes requisitos:
 
 1.PHP  Versión 5.6.8 o superior
 2.Modulo Mod_Rewrite Activado
