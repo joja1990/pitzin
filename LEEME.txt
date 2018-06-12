@@ -1,12 +1,12 @@
  
 Quisiera agradecer tu compra y agradecer la confianza en adquirir este humilde software, 
-también espero que te sea de utilidad, bendiciones y un abrazo muy fuerte desde México.
-Atte.- Jesús Herrera | CEO JHCodes
+tambiÃ©n espero que te sea de utilidad, bendiciones y un abrazo muy fuerte desde MÃ©xico.
+Atte.- JesÃºs Herrera | CEO JHCodes
 
 
 Para poder usar y utilizar SAUv3 necesitas cubrir los siguientes requisitos:
 
-1.PHP  Versión 5.6.8 o superior
+1.PHP  VersiÃ³n 5.6.8 o superior
 2.Modulo Mod_Rewrite Activado
 3.Base de datos MySQL 5.0.11 o superior
 4.Apache Server 2.4.12
